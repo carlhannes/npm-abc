@@ -1,0 +1,47 @@
+{
+  "name": "npm-abc",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlhannes/npm-abc.git"
+  },
+  "author": "@carlhannes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlhannes/npm-abc/issues"
+  },
+  "homepage": "https://github.com/carlhannes/npm-abc#readme",
+  "dependencies": {
+    "a": "^2.1.1",
+    "b": "^2.0.1",
+    "c": "^0.1.0",
+    "d": "^1.0.0",
+    "e": "0.0.4",
+    "f": "^1.4.0",
+    "g": "^2.0.1",
+    "h": "^0.1.0",
+    "i": "^0.3.6",
+    "j": "^1.0.0",
+    "k": "^0.9.20",
+    "l": "^0.6.0",
+    "m": "^1.3.1",
+    "n": "^2.1.8",
+    "o": "^0.2.0",
+    "p": "^0.2.0",
+    "q": "^1.5.1",
+    "r": "0.0.5",
+    "s": "^0.1.1",
+    "t": "^0.5.1",
+    "u": "^0.1.0",
+    "v": "^0.3.0",
+    "w": "^1.0.1",
+    "x": "^0.1.2",
+    "y": "^0.3.2",
+    "z": "^1.0.3"
+  }
+}
